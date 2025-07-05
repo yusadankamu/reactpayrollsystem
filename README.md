@@ -187,7 +187,7 @@ This project is open for contributions. Please feel free to submit issues, featu
 **I Wayan Dirgayusa**
 
 - GitHub: [@yusadankamu](https://github.com/yusadankamu)
-- Portfolio: [dirgayusa.dev](https://dirgayusa.dev)
+- Portfolio: [yusafolio.vercel.app](https://yusafolio.vercel.app)
 
 ## 📄 License
 
